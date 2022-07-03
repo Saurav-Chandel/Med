@@ -1,0 +1,2273 @@
+[
+    {
+        "model": "user.user",
+        "pk": 1,
+        "fields": {
+            "password": "pbkdf2_sha256$320000$F6uI5PU6QmfP5mnPbhuCWN$ApqDuNKx+Y3ejJ03at001sat5v7vHAMjE6wlT7otmlM=",
+            "last_login": "2021-12-31T14:55:41.090+05:30",
+            "is_superuser": true,
+            "username": "admin@admin.com",
+            "first_name": "",
+            "last_name": "",
+            "is_staff": true,
+            "is_active": true,
+            "date_joined": "2021-12-15T10:49:38+05:30",
+            "first_last_name": "jk",
+            "email": "admin@admin.com",
+            "phone_no": "1234567890",
+            "email_verified": false,
+            "email_otp": null,
+            "is_deleted": false,
+            "created_at": "2021-12-15T10:49:38.921+05:30",
+            "updated_at": "2021-12-22T17:29:40.771+05:30",
+            "groups": [],
+            "user_permissions": []
+        }
+    },
+    {
+        "model": "user.user",
+        "pk": 2,
+        "fields": {
+            "password": "pbkdf2_sha256$320000$57bVRoM9Tt1X3y5dFWjp0k$EnW21nI5Xp5KInVWP8fZRhAfGytdAe5lzXd7c3GvOP4=",
+            "last_login": null,
+            "is_superuser": false,
+            "username": "",
+            "first_name": "",
+            "last_name": "",
+            "is_staff": false,
+            "is_active": true,
+            "date_joined": "2021-12-15T11:31:00.674+05:30",
+            "first_last_name": "jk patel",
+            "email": "jignesh.kotadiya@softuvo.in",
+            "phone_no": "8806622921",
+            "email_verified": false,
+            "email_otp": null,
+            "is_deleted": false,
+            "created_at": "2021-12-15T11:31:00.674+05:30",
+            "updated_at": "2021-12-15T11:31:00.830+05:30",
+            "groups": [],
+            "user_permissions": []
+        }
+    },
+    {
+        "model": "user.user",
+        "pk": 16,
+        "fields": {
+            "password": "pbkdf2_sha256$320000$xnZlzANUF1cMzlmOiJiKPL$1ZFauvYmuklKo+KrUACmiGFiVBhWN+YWFpGsF/tMKYI=",
+            "last_login": null,
+            "is_superuser": false,
+            "username": "jigneshkotadiya000@gmail.com",
+            "first_name": "",
+            "last_name": "",
+            "is_staff": false,
+            "is_active": true,
+            "date_joined": "2021-12-16T14:07:20.096+05:30",
+            "first_last_name": "j",
+            "email": "jigneshkotadiya000@gmail.com",
+            "phone_no": "8806622921",
+            "email_verified": false,
+            "email_otp": null,
+            "is_deleted": false,
+            "created_at": "2021-12-16T14:07:20.097+05:30",
+            "updated_at": "2021-12-22T10:14:27.552+05:30",
+            "groups": [],
+            "user_permissions": []
+        }
+    },
+    {
+        "model": "user.user",
+        "pk": 17,
+        "fields": {
+            "password": "pbkdf2_sha256$320000$FSwcJXYlG6EGXNLxdsNPk9$3x+lNKsjzhqpCK1DLrwcQoHnmszBuy1/I7UvC1Odi/s=",
+            "last_login": null,
+            "is_superuser": false,
+            "username": "jigneshkotadiya0000@gmail.com",
+            "first_name": "",
+            "last_name": "",
+            "is_staff": false,
+            "is_active": true,
+            "date_joined": "2021-12-16T14:07:39.098+05:30",
+            "first_last_name": "j",
+            "email": "jigneshkotadiya0000@gmail.com",
+            "phone_no": "8806622921",
+            "email_verified": false,
+            "email_otp": null,
+            "is_deleted": false,
+            "created_at": "2021-12-16T14:07:39.098+05:30",
+            "updated_at": "2021-12-16T14:07:39.356+05:30",
+            "groups": [],
+            "user_permissions": []
+        }
+    },
+    {
+        "model": "user.user",
+        "pk": 18,
+        "fields": {
+            "password": "pbkdf2_sha256$320000$0kGBMfSBrjEtm1Y18Hy4dr$2K9GtRtYJdrrJuRUXigovA5U8sXwWBOF+h7+vfKDoA4=",
+            "last_login": null,
+            "is_superuser": false,
+            "username": "asd@gmailom.com",
+            "first_name": "",
+            "last_name": "",
+            "is_staff": false,
+            "is_active": true,
+            "date_joined": "2021-12-16T14:08:07.998+05:30",
+            "first_last_name": "Sunny negi",
+            "email": "asd@gmailom.com",
+            "phone_no": "9878987898",
+            "email_verified": false,
+            "email_otp": null,
+            "is_deleted": false,
+            "created_at": "2021-12-16T14:08:07.999+05:30",
+            "updated_at": "2021-12-16T14:08:08.250+05:30",
+            "groups": [],
+            "user_permissions": []
+        }
+    },
+    {
+        "model": "user.user",
+        "pk": 19,
+        "fields": {
+            "password": "pbkdf2_sha256$320000$uMU9qGoEgxyuiC5naP9AJR$62aCYz/atgkTmJV9p2lb6hPCIeqIV/KBRu8PqkmhPO4=",
+            "last_login": "2021-12-20T16:42:06+05:30",
+            "is_superuser": false,
+            "username": "asder@yopmail.com",
+            "first_name": "",
+            "last_name": "",
+            "is_staff": false,
+            "is_active": true,
+            "date_joined": "2021-12-20T11:31:09+05:30",
+            "first_last_name": "Delta Thrill",
+            "email": "asder@yopmail.com",
+            "phone_no": "31111111115",
+            "email_verified": false,
+            "email_otp": null,
+            "is_deleted": false,
+            "created_at": "2021-12-20T11:31:09.850+05:30",
+            "updated_at": "2021-12-23T17:07:15.562+05:30",
+            "groups": [],
+            "user_permissions": [
+                4
+            ]
+        }
+    },
+    {
+        "model": "user.user",
+        "pk": 20,
+        "fields": {
+            "password": "pbkdf2_sha256$320000$TC1kPqmhrvuD6IirYC6BDK$VhPfahI9GELTM9GiMYdccacwRRutOxeBWiekUOk8KZ4=",
+            "last_login": null,
+            "is_superuser": false,
+            "username": "jigneshkotadiya00@gmail.com",
+            "first_name": "",
+            "last_name": "",
+            "is_staff": false,
+            "is_active": true,
+            "date_joined": "2021-12-20T14:49:40.515+05:30",
+            "first_last_name": "j",
+            "email": "jigneshkotadiya00@gmail.com",
+            "phone_no": "8806622921",
+            "email_verified": false,
+            "email_otp": null,
+            "is_deleted": false,
+            "created_at": "2021-12-20T14:49:40.516+05:30",
+            "updated_at": "2021-12-20T14:49:40.766+05:30",
+            "groups": [],
+            "user_permissions": []
+        }
+    },
+    {
+        "model": "hospital.specialization",
+        "pk": 1,
+        "fields": {
+            "name": "Cancer",
+            "created_by": null,
+            "created_at": "2021-12-23T11:58:02.083+05:30",
+            "updated_at": "2021-12-23T11:58:02.083+05:30"
+        }
+    },
+    {
+        "model": "hospital.specialization",
+        "pk": 2,
+        "fields": {
+            "name": "Cardiologists",
+            "created_by": 2,
+            "created_at": "2021-12-28T11:15:36.327+05:30",
+            "updated_at": "2021-12-28T11:15:36.327+05:30"
+        }
+    },
+    {
+        "model": "hospital.specialization",
+        "pk": 3,
+        "fields": {
+            "name": "Allergy & Clinical Immunology",
+            "created_by": 2,
+            "created_at": "2021-12-28T11:16:06.050+05:30",
+            "updated_at": "2021-12-28T11:16:06.050+05:30"
+        }
+    },
+    {
+        "model": "hospital.specialization",
+        "pk": 4,
+        "fields": {
+            "name": "Virology",
+            "created_by": 2,
+            "created_at": "2021-12-28T11:16:38.386+05:30",
+            "updated_at": "2021-12-28T11:16:38.386+05:30"
+        }
+    },
+    {
+        "model": "hospital.specialization",
+        "pk": 5,
+        "fields": {
+            "name": "Tuberculosis & Chest Diseases",
+            "created_by": 2,
+            "created_at": "2021-12-28T11:16:48.891+05:30",
+            "updated_at": "2021-12-28T11:16:48.891+05:30"
+        }
+    },
+    {
+        "model": "hospital.specialization",
+        "pk": 6,
+        "fields": {
+            "name": "Tropical medicine",
+            "created_by": 2,
+            "created_at": "2021-12-28T11:16:55.713+05:30",
+            "updated_at": "2021-12-28T11:16:55.713+05:30"
+        }
+    },
+    {
+        "model": "hospital.specialization",
+        "pk": 7,
+        "fields": {
+            "name": "Radio-diagnosis",
+            "created_by": 2,
+            "created_at": "2021-12-28T11:17:06.461+05:30",
+            "updated_at": "2021-12-28T11:17:06.461+05:30"
+        }
+    },
+    {
+        "model": "hospital.specialization",
+        "pk": 8,
+        "fields": {
+            "name": "Psychiatry",
+            "created_by": 2,
+            "created_at": "2021-12-28T11:17:18.972+05:30",
+            "updated_at": "2021-12-28T11:17:18.972+05:30"
+        }
+    },
+    {
+        "model": "hospital.specialization",
+        "pk": 9,
+        "fields": {
+            "name": "Otorhinolaryngology",
+            "created_by": 2,
+            "created_at": "2021-12-28T11:17:29.309+05:30",
+            "updated_at": "2021-12-28T11:17:29.309+05:30"
+        }
+    },
+    {
+        "model": "hospital.specialization",
+        "pk": 10,
+        "fields": {
+            "name": "Orthopedics",
+            "created_by": 17,
+            "created_at": "2021-12-28T11:17:38.299+05:30",
+            "updated_at": "2021-12-28T11:17:38.299+05:30"
+        }
+    },
+    {
+        "model": "hospital.specialization",
+        "pk": 11,
+        "fields": {
+            "name": "Ophthalmology",
+            "created_by": 17,
+            "created_at": "2021-12-28T11:17:50.972+05:30",
+            "updated_at": "2021-12-28T11:17:50.972+05:30"
+        }
+    },
+    {
+        "model": "hospital.specialization",
+        "pk": 12,
+        "fields": {
+            "name": "Anesthesiology",
+            "created_by": 17,
+            "created_at": "2021-12-28T11:18:12.013+05:30",
+            "updated_at": "2021-12-28T11:18:12.013+05:30"
+        }
+    },
+    {
+        "model": "hospital.specialization",
+        "pk": 13,
+        "fields": {
+            "name": "Clinical Pathology",
+            "created_by": 17,
+            "created_at": "2021-12-28T11:18:25.619+05:30",
+            "updated_at": "2021-12-28T11:18:25.619+05:30"
+        }
+    },
+    {
+        "model": "hospital.specialization",
+        "pk": 14,
+        "fields": {
+            "name": "Immunohematology & Blood Transfusion",
+            "created_by": 17,
+            "created_at": "2021-12-28T11:18:37.236+05:30",
+            "updated_at": "2021-12-28T11:18:37.236+05:30"
+        }
+    },
+    {
+        "model": "hospital.specialization",
+        "pk": 15,
+        "fields": {
+            "name": "Nephrologists",
+            "created_by": 17,
+            "created_at": "2021-12-28T11:19:19.316+05:30",
+            "updated_at": "2021-12-28T11:19:19.316+05:30"
+        }
+    },
+    {
+        "model": "hospital.specialization",
+        "pk": 16,
+        "fields": {
+            "name": "Obstetricians and Gynecologists",
+            "created_by": 17,
+            "created_at": "2021-12-28T11:19:36.014+05:30",
+            "updated_at": "2021-12-28T11:19:36.014+05:30"
+        }
+    },
+    {
+        "model": "hospital.specialization",
+        "pk": 17,
+        "fields": {
+            "name": "Oncologists",
+            "created_by": 17,
+            "created_at": "2021-12-28T11:19:42.742+05:30",
+            "updated_at": "2021-12-28T11:19:42.742+05:30"
+        }
+    },
+    {
+        "model": "hospital.specialization",
+        "pk": 18,
+        "fields": {
+            "name": "Plastic Surgeons",
+            "created_by": 17,
+            "created_at": "2021-12-28T11:19:57.168+05:30",
+            "updated_at": "2021-12-28T11:19:57.168+05:30"
+        }
+    },
+    {
+        "model": "hospital.specialization",
+        "pk": 19,
+        "fields": {
+            "name": "Podiatrists",
+            "created_by": 17,
+            "created_at": "2021-12-28T11:20:09.734+05:30",
+            "updated_at": "2021-12-28T11:20:09.734+05:30"
+        }
+    },
+    {
+        "model": "hospital.specialization",
+        "pk": 20,
+        "fields": {
+            "name": "Pulmonologists",
+            "created_by": 17,
+            "created_at": "2021-12-28T11:20:20.648+05:30",
+            "updated_at": "2021-12-28T11:20:20.648+05:30"
+        }
+    },
+    {
+        "model": "hospital.hospital",
+        "pk": 1,
+        "fields": {
+            "hospital_name": "wockhardt hospital",
+            "latitude": null,
+            "longitude": null,
+            "specialization": 1,
+            "info": "",
+            "address": null,
+            "zip_code": null,
+            "phone_no": null,
+            "created_by": null,
+            "created_at": "2021-12-23T12:00:34.218+05:30",
+            "updated_at": "2021-12-23T12:00:34.218+05:30"
+        }
+    },
+    {
+        "model": "hospital.hospital",
+        "pk": 2,
+        "fields": {
+            "hospital_name": "Apollo Hospitals",
+            "latitude": null,
+            "longitude": null,
+            "specialization": 1,
+            "info": "NYU Langone Health is an academic medical center located in New York City, New York, United States, affiliated with New York University. Wikipedia",
+            "address": "50 1st Ave, New York, NY 10016",
+            "zip_code": 123456,
+            "phone_no": "9878987898",
+            "created_by": null,
+            "created_at": "2021-12-23T12:18:13.672+05:30",
+            "updated_at": "2021-12-27T18:26:14.662+05:30"
+        }
+    },
+    {
+        "model": "hospital.hospital",
+        "pk": 3,
+        "fields": {
+            "hospital_name": "Mukat Hospital and Heart Institute",
+            "latitude": null,
+            "longitude": null,
+            "specialization": 2,
+            "info": "information",
+            "address": "47, S.C.O, 49, Dakshin Marg, Sector 34A Chandigarh Sector- 34A, Chandigarh - 160022",
+            "zip_code": 160022,
+            "phone_no": "1234567899",
+            "created_by": 2,
+            "created_at": "2021-12-28T11:22:09.924+05:30",
+            "updated_at": "2021-12-28T11:22:21.379+05:30"
+        }
+    },
+    {
+        "model": "hospital.hospital",
+        "pk": 4,
+        "fields": {
+            "hospital_name": "Bedi Hospital",
+            "latitude": null,
+            "longitude": null,
+            "specialization": 3,
+            "info": "info",
+            "address": "Pristyn Care, No 182 &, 33A, Sector 33 , Chandigarh - 160020",
+            "zip_code": 160020,
+            "phone_no": "1234567899",
+            "created_by": 2,
+            "created_at": "2021-12-28T11:23:00.211+05:30",
+            "updated_at": "2021-12-28T11:23:00.211+05:30"
+        }
+    },
+    {
+        "model": "hospital.hospital",
+        "pk": 5,
+        "fields": {
+            "hospital_name": "Mukat Hospital",
+            "latitude": null,
+            "longitude": null,
+            "specialization": 3,
+            "info": "info",
+            "address": "47, S.C.O, 49, Dakshin Marg, Sector 34A , Chandigarh - 160022",
+            "zip_code": 160022,
+            "phone_no": "1234567899",
+            "created_by": 2,
+            "created_at": "2021-12-28T11:23:30.165+05:30",
+            "updated_at": "2021-12-28T11:23:30.165+05:30"
+        }
+    },
+    {
+        "model": "hospital.hospital",
+        "pk": 6,
+        "fields": {
+            "hospital_name": "Amar Hospital (Mohali)",
+            "latitude": null,
+            "longitude": null,
+            "specialization": 4,
+            "info": "info",
+            "address": "Sector 70 Mohali, Chandigarh - 160062",
+            "zip_code": 160062,
+            "phone_no": "1234567899",
+            "created_by": 2,
+            "created_at": "2021-12-28T11:24:01.333+05:30",
+            "updated_at": "2021-12-28T11:24:01.333+05:30"
+        }
+    },
+    {
+        "model": "hospital.hospital",
+        "pk": 7,
+        "fields": {
+            "hospital_name": "Alchemist Hospital (Panchkula)",
+            "latitude": null,
+            "longitude": null,
+            "specialization": 5,
+            "info": "info",
+            "address": "Sector-21 Panchkula, Chandigarh - 134109",
+            "zip_code": 134109,
+            "phone_no": "1234567899",
+            "created_by": 2,
+            "created_at": "2021-12-28T11:24:31.475+05:30",
+            "updated_at": "2021-12-28T11:24:31.475+05:30"
+        }
+    },
+    {
+        "model": "hospital.hospital",
+        "pk": 8,
+        "fields": {
+            "hospital_name": "Dr Kochars House of Smiles",
+            "latitude": null,
+            "longitude": null,
+            "specialization": 6,
+            "info": "info",
+            "address": "1154, Sec 21-B , Chandigarh - 160021",
+            "zip_code": 160021,
+            "phone_no": "1234567899",
+            "created_by": 2,
+            "created_at": "2021-12-28T11:24:58.449+05:30",
+            "updated_at": "2021-12-28T11:24:58.449+05:30"
+        }
+    },
+    {
+        "model": "hospital.hospital",
+        "pk": 9,
+        "fields": {
+            "hospital_name": "Healing Hospital (Chandigarh)",
+            "latitude": null,
+            "longitude": null,
+            "specialization": 7,
+            "info": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+            "address": "SCO 18-19, Oppo. Canara bank Sector- 34 A, Chandigarh - 160022",
+            "zip_code": 160022,
+            "phone_no": "1234567899",
+            "created_by": 2,
+            "created_at": "2021-12-28T11:25:48.794+05:30",
+            "updated_at": "2021-12-30T19:04:37.830+05:30"
+        }
+    },
+    {
+        "model": "hospital.hospital",
+        "pk": 10,
+        "fields": {
+            "hospital_name": "Indus Hospital Super Speciality (Mohali SAS Nagar)",
+            "latitude": null,
+            "longitude": null,
+            "specialization": 9,
+            "info": "info",
+            "address": "Sector- 55, Opposite D C Office, Phase- 1 Mohali SAS Nagar, Chandigarh - 160055",
+            "zip_code": 160055,
+            "phone_no": "123456789",
+            "created_by": 2,
+            "created_at": "2021-12-28T11:26:25.248+05:30",
+            "updated_at": "2021-12-28T11:26:25.248+05:30"
+        }
+    },
+    {
+        "model": "hospital.hospital",
+        "pk": 11,
+        "fields": {
+            "hospital_name": "IVY Hospital",
+            "latitude": null,
+            "longitude": null,
+            "specialization": 9,
+            "info": "info",
+            "address": "Sector 71 Mohali, Chandigarh - 1600",
+            "zip_code": 1600,
+            "phone_no": "1234567899",
+            "created_by": 2,
+            "created_at": "2021-12-28T11:26:52.207+05:30",
+            "updated_at": "2021-12-28T11:26:52.207+05:30"
+        }
+    },
+    {
+        "model": "hospital.hospital",
+        "pk": 12,
+        "fields": {
+            "hospital_name": "Omni Hospital",
+            "latitude": null,
+            "longitude": null,
+            "specialization": 11,
+            "info": "info",
+            "address": "SCO- 343 to 345 Sector 34A, Chandigarh - 160022",
+            "zip_code": 160022,
+            "phone_no": "1234567899",
+            "created_by": 2,
+            "created_at": "2021-12-28T11:27:28.454+05:30",
+            "updated_at": "2021-12-28T11:27:28.454+05:30"
+        }
+    },
+    {
+        "model": "hospital.hospital",
+        "pk": 13,
+        "fields": {
+            "hospital_name": "Chaitanya Hospital (Chandigarh)",
+            "latitude": null,
+            "longitude": null,
+            "specialization": 1,
+            "info": "info",
+            "address": "Site No. 1 and 2 Sector 44C, Chandigarh - 160047",
+            "zip_code": 160047,
+            "phone_no": "1234567899",
+            "created_by": 2,
+            "created_at": "2021-12-28T11:28:10.590+05:30",
+            "updated_at": "2021-12-28T11:28:10.590+05:30"
+        }
+    },
+    {
+        "model": "hospital.hospital",
+        "pk": 14,
+        "fields": {
+            "hospital_name": "Dhawan Hospital",
+            "latitude": null,
+            "longitude": null,
+            "specialization": 2,
+            "info": "info",
+            "address": "Plot No. -1 Sector- 7, Panchkula, Chandigarh - 134109",
+            "zip_code": 134109,
+            "phone_no": "123456789",
+            "created_by": 2,
+            "created_at": "2021-12-28T11:28:41.467+05:30",
+            "updated_at": "2021-12-28T11:28:41.467+05:30"
+        }
+    },
+    {
+        "model": "hospital.hospital",
+        "pk": 15,
+        "fields": {
+            "hospital_name": "Childrens Hospital",
+            "latitude": null,
+            "longitude": null,
+            "specialization": 18,
+            "info": "info",
+            "address": "Mansa Devi Complex, Sawastik Vihar Phase- 1, Sector- 5, Panchkula, Chandigarh - 134114",
+            "zip_code": 134114,
+            "phone_no": "1232585687",
+            "created_by": 2,
+            "created_at": "2021-12-28T11:29:19.820+05:30",
+            "updated_at": "2021-12-28T11:29:19.820+05:30"
+        }
+    },
+    {
+        "model": "hospital.hospital",
+        "pk": 16,
+        "fields": {
+            "hospital_name": "Landmark Hospital",
+            "latitude": null,
+            "longitude": null,
+            "specialization": 18,
+            "info": "info",
+            "address": "Site No. 1 and 2 Sector 33C, Chandigarh - 160034",
+            "zip_code": 160034,
+            "phone_no": "123456789",
+            "created_by": 2,
+            "created_at": "2021-12-28T11:29:53.739+05:30",
+            "updated_at": "2021-12-28T11:29:53.739+05:30"
+        }
+    },
+    {
+        "model": "hospital.hospital",
+        "pk": 17,
+        "fields": {
+            "hospital_name": "Sri Ram Hospital",
+            "latitude": null,
+            "longitude": null,
+            "specialization": 17,
+            "info": "info",
+            "address": "l Near Tehsil Derabassi, Zirakpur, Chandigarh - 140507",
+            "zip_code": 140507,
+            "phone_no": "123456547",
+            "created_by": 2,
+            "created_at": "2021-12-28T11:30:41.476+05:30",
+            "updated_at": "2021-12-28T11:30:41.476+05:30"
+        }
+    },
+    {
+        "model": "hospital.hospital",
+        "pk": 18,
+        "fields": {
+            "hospital_name": "Abhilasha Hospital",
+            "latitude": null,
+            "longitude": null,
+            "specialization": 16,
+            "info": "info",
+            "address": "Kothi No. 201 Sector- 35A, Chandigarh - 160022",
+            "zip_code": 160022,
+            "phone_no": "2345464777",
+            "created_by": 2,
+            "created_at": "2021-12-28T11:31:06.059+05:30",
+            "updated_at": "2021-12-29T10:43:53.596+05:30"
+        }
+    },
+    {
+        "model": "hospital.hospital",
+        "pk": 19,
+        "fields": {
+            "hospital_name": "Cosmo Hospital",
+            "latitude": null,
+            "longitude": null,
+            "specialization": 15,
+            "info": "info",
+            "address": "Sector- 62, Phase- 8 Mohali, Chandigarh - 160062",
+            "zip_code": 160062,
+            "phone_no": "324354657",
+            "created_by": 2,
+            "created_at": "2021-12-28T11:31:39.915+05:30",
+            "updated_at": "2021-12-28T11:31:39.915+05:30"
+        }
+    },
+    {
+        "model": "hospital.hospital",
+        "pk": 20,
+        "fields": {
+            "hospital_name": "Eden Hospital",
+            "latitude": null,
+            "longitude": null,
+            "specialization": 14,
+            "info": "info",
+            "address": "Industrial Estate Area Sector 18, Chandigarh - 160018",
+            "zip_code": 160018,
+            "phone_no": "324354677",
+            "created_by": 2,
+            "created_at": "2021-12-28T11:32:14.499+05:30",
+            "updated_at": "2021-12-28T11:32:14.499+05:30"
+        }
+    },
+    {
+        "model": "hospital.hospital",
+        "pk": 21,
+        "fields": {
+            "hospital_name": "Silver Oaks Hospital",
+            "latitude": null,
+            "longitude": null,
+            "specialization": 1,
+            "info": "info",
+            "address": "Phase- 9, Sector- 63 Mohali SAS Nagar, Chandigarh - 160055",
+            "zip_code": 160055,
+            "phone_no": "1234567899",
+            "created_by": null,
+            "created_at": "2021-12-28T12:15:22.822+05:30",
+            "updated_at": "2021-12-28T12:15:22.822+05:30"
+        }
+    },
+    {
+        "model": "hospital.hospital",
+        "pk": 22,
+        "fields": {
+            "hospital_name": "Chaitanya Public Hospital",
+            "latitude": null,
+            "longitude": null,
+            "specialization": 3,
+            "info": "info",
+            "address": "SCO 19, Kalgidhar Enclave, Zirakpur Kalka Highway Zirakpur HO, Zirakpur , Chandigarh - 1406",
+            "zip_code": 140603,
+            "phone_no": "1234567",
+            "created_by": null,
+            "created_at": "2021-12-28T12:16:02.694+05:30",
+            "updated_at": "2021-12-28T12:16:02.694+05:30"
+        }
+    },
+    {
+        "model": "hospital.hospital",
+        "pk": 23,
+        "fields": {
+            "hospital_name": "Pgimer Hospital",
+            "latitude": null,
+            "longitude": null,
+            "specialization": 4,
+            "info": "info",
+            "address": "Sector-12 , Chandigarh - 160011",
+            "zip_code": 160011,
+            "phone_no": "2134567",
+            "created_by": null,
+            "created_at": "2021-12-28T12:19:36.879+05:30",
+            "updated_at": "2021-12-28T12:19:36.879+05:30"
+        }
+    },
+    {
+        "model": "hospital.hospital",
+        "pk": 24,
+        "fields": {
+            "hospital_name": "Raffels Hospital",
+            "latitude": null,
+            "longitude": null,
+            "specialization": 3,
+            "info": "",
+            "address": "SCO 138, Sector 14, Near Indian Oil Petrol Pump Panchkula, Chandigarh - 134109",
+            "zip_code": 134109,
+            "phone_no": "1234566",
+            "created_by": null,
+            "created_at": "2021-12-28T12:20:10.991+05:30",
+            "updated_at": "2021-12-28T12:20:10.991+05:30"
+        }
+    },
+    {
+        "model": "hospital.hospital",
+        "pk": 25,
+        "fields": {
+            "hospital_name": "Shivalik Hospital and Trauma Centre",
+            "latitude": null,
+            "longitude": null,
+            "specialization": 6,
+            "info": "info",
+            "address": "Chandigarh Sohana Highway, Sector- 69 Mohali Sas Nagar, Chandigarh - 160055",
+            "zip_code": 160055,
+            "phone_no": "12345678",
+            "created_by": null,
+            "created_at": "2021-12-28T12:20:45.656+05:30",
+            "updated_at": "2021-12-28T16:03:27.566+05:30"
+        }
+    },
+    {
+        "model": "insurance.insurance",
+        "pk": 1,
+        "fields": {
+            "insurance_name": "TATA",
+            "created_by": 2,
+            "created_at": "2021-12-23T12:13:04.869+05:30",
+            "updated_at": "2021-12-24T10:18:06.879+05:30"
+        }
+    },
+    {
+        "model": "insurance.insurance",
+        "pk": 2,
+        "fields": {
+            "insurance_name": "AETNA COMMERCIAL",
+            "created_by": 2,
+            "created_at": "2021-12-24T13:01:15.942+05:30",
+            "updated_at": "2021-12-24T13:01:15.942+05:30"
+        }
+    },
+    {
+        "model": "insurance.insurance",
+        "pk": 3,
+        "fields": {
+            "insurance_name": "AETNA INTERNATIONAL",
+            "created_by": null,
+            "created_at": "2021-12-24T13:01:23.589+05:30",
+            "updated_at": "2021-12-24T13:01:23.589+05:30"
+        }
+    },
+    {
+        "model": "insurance.insurance",
+        "pk": 4,
+        "fields": {
+            "insurance_name": "AETNA MEDICARE",
+            "created_by": null,
+            "created_at": "2021-12-24T13:01:27.805+05:30",
+            "updated_at": "2021-12-24T13:01:27.805+05:30"
+        }
+    },
+    {
+        "model": "insurance.insurance",
+        "pk": 5,
+        "fields": {
+            "insurance_name": "AMERIGROUP",
+            "created_by": null,
+            "created_at": "2021-12-24T13:01:31.517+05:30",
+            "updated_at": "2021-12-24T13:01:31.517+05:30"
+        }
+    },
+    {
+        "model": "insurance.insurance",
+        "pk": 6,
+        "fields": {
+            "insurance_name": "BEECH STREET",
+            "created_by": null,
+            "created_at": "2021-12-24T13:01:35.373+05:30",
+            "updated_at": "2021-12-24T13:01:35.373+05:30"
+        }
+    },
+    {
+        "model": "insurance.insurance",
+        "pk": 7,
+        "fields": {
+            "insurance_name": "BCBS HEALTH OPTIONS HMO",
+            "created_by": 2,
+            "created_at": "2021-12-28T11:34:08.036+05:30",
+            "updated_at": "2021-12-28T11:34:08.036+05:30"
+        }
+    },
+    {
+        "model": "insurance.insurance",
+        "pk": 8,
+        "fields": {
+            "insurance_name": "BCBS MEDICARE PPO",
+            "created_by": 17,
+            "created_at": "2021-12-28T11:34:28.572+05:30",
+            "updated_at": "2021-12-28T11:34:58.320+05:30"
+        }
+    },
+    {
+        "model": "insurance.insurance",
+        "pk": 9,
+        "fields": {
+            "insurance_name": "BCBS HEALTH OPTIONS MCR",
+            "created_by": 2,
+            "created_at": "2021-12-28T11:35:06.604+05:30",
+            "updated_at": "2021-12-28T11:35:06.604+05:30"
+        }
+    },
+    {
+        "model": "insurance.insurance",
+        "pk": 10,
+        "fields": {
+            "insurance_name": "BCBS NETWORK BLUE",
+            "created_by": 17,
+            "created_at": "2021-12-28T11:35:13.653+05:30",
+            "updated_at": "2021-12-28T11:35:13.653+05:30"
+        }
+    },
+    {
+        "model": "insurance.insurance",
+        "pk": 11,
+        "fields": {
+            "insurance_name": "BCBS PPO",
+            "created_by": 2,
+            "created_at": "2021-12-28T11:35:21.173+05:30",
+            "updated_at": "2021-12-28T11:35:21.173+05:30"
+        }
+    },
+    {
+        "model": "insurance.insurance",
+        "pk": 12,
+        "fields": {
+            "insurance_name": "BCBS PHS (TRADITIONAL)",
+            "created_by": 18,
+            "created_at": "2021-12-28T11:35:28.382+05:30",
+            "updated_at": "2021-12-28T11:35:28.382+05:30"
+        }
+    },
+    {
+        "model": "insurance.insurance",
+        "pk": 13,
+        "fields": {
+            "insurance_name": "CAREPLUS MEDICARE",
+            "created_by": 17,
+            "created_at": "2021-12-28T11:35:33.990+05:30",
+            "updated_at": "2021-12-28T11:35:33.990+05:30"
+        }
+    },
+    {
+        "model": "insurance.insurance",
+        "pk": 14,
+        "fields": {
+            "insurance_name": "CIGNA",
+            "created_by": 18,
+            "created_at": "2021-12-28T11:35:41.661+05:30",
+            "updated_at": "2021-12-28T11:35:41.661+05:30"
+        }
+    },
+    {
+        "model": "insurance.insurance",
+        "pk": 15,
+        "fields": {
+            "insurance_name": "CORVEL",
+            "created_by": 2,
+            "created_at": "2021-12-28T11:35:46.893+05:30",
+            "updated_at": "2021-12-28T11:35:46.893+05:30"
+        }
+    },
+    {
+        "model": "insurance.insurance",
+        "pk": 16,
+        "fields": {
+            "insurance_name": "COVENTRY (FIRST HEALTH)",
+            "created_by": 17,
+            "created_at": "2021-12-28T11:35:57.165+05:30",
+            "updated_at": "2021-12-28T11:35:57.165+05:30"
+        }
+    },
+    {
+        "model": "insurance.insurance",
+        "pk": 17,
+        "fields": {
+            "insurance_name": "COVENTRY       (PPO)",
+            "created_by": 18,
+            "created_at": "2021-12-28T11:36:02.445+05:30",
+            "updated_at": "2021-12-28T11:36:02.445+05:30"
+        }
+    },
+    {
+        "model": "insurance.insurance",
+        "pk": 18,
+        "fields": {
+            "insurance_name": "\" DEVOTED HEALTH  (Medicare) \"",
+            "created_by": 18,
+            "created_at": "2021-12-28T11:36:08.924+05:30",
+            "updated_at": "2021-12-28T11:36:08.924+05:30"
+        }
+    },
+    {
+        "model": "insurance.insurance",
+        "pk": 19,
+        "fields": {
+            "insurance_name": "DIMENSION",
+            "created_by": 2,
+            "created_at": "2021-12-28T11:36:16.413+05:30",
+            "updated_at": "2021-12-28T11:36:16.413+05:30"
+        }
+    },
+    {
+        "model": "insurance.insurance",
+        "pk": 20,
+        "fields": {
+            "insurance_name": "DIMENSION INTERNATIONAL",
+            "created_by": 17,
+            "created_at": "2021-12-28T11:36:23.493+05:30",
+            "updated_at": "2021-12-28T11:36:23.493+05:30"
+        }
+    },
+    {
+        "model": "insurance.insurance",
+        "pk": 21,
+        "fields": {
+            "insurance_name": "DIMENSION PLUS",
+            "created_by": 18,
+            "created_at": "2021-12-28T11:43:49.171+05:30",
+            "updated_at": "2021-12-28T11:43:49.171+05:30"
+        }
+    },
+    {
+        "model": "insurance.insurance",
+        "pk": 22,
+        "fields": {
+            "insurance_name": "\" DOCTORS HEALTHCARE  (Medicare) \"",
+            "created_by": 2,
+            "created_at": "2021-12-28T11:43:54.833+05:30",
+            "updated_at": "2021-12-28T11:43:54.833+05:30"
+        }
+    },
+    {
+        "model": "insurance.insurance",
+        "pk": 23,
+        "fields": {
+            "insurance_name": "HEALTHSUN                      (Medicare)",
+            "created_by": null,
+            "created_at": "2021-12-28T11:44:01.912+05:30",
+            "updated_at": "2021-12-28T11:44:01.912+05:30"
+        }
+    },
+    {
+        "model": "insurance.insurance",
+        "pk": 24,
+        "fields": {
+            "insurance_name": "LEON MEDICAL CENTER (MEDICARE)",
+            "created_by": null,
+            "created_at": "2021-12-28T11:44:06.119+05:30",
+            "updated_at": "2021-12-28T11:44:06.119+05:30"
+        }
+    },
+    {
+        "model": "insurance.insurance",
+        "pk": 25,
+        "fields": {
+            "insurance_name": "LONGEVITY HEALTH (Medicare)",
+            "created_by": null,
+            "created_at": "2021-12-28T11:44:12.918+05:30",
+            "updated_at": "2021-12-28T11:44:12.918+05:30"
+        }
+    },
+    {
+        "model": "insurance.insurance",
+        "pk": 26,
+        "fields": {
+            "insurance_name": "MMM OF FL  (Medicare) \"",
+            "created_by": null,
+            "created_at": "2021-12-28T11:44:16.636+05:30",
+            "updated_at": "2021-12-28T11:44:27.562+05:30"
+        }
+    },
+    {
+        "model": "insurance.insurance",
+        "pk": 27,
+        "fields": {
+            "insurance_name": "MULTIPLAN      (BEECH STREET)",
+            "created_by": null,
+            "created_at": "2021-12-28T11:44:20.569+05:30",
+            "updated_at": "2021-12-28T11:44:20.569+05:30"
+        }
+    },
+    {
+        "model": "insurance.insurance",
+        "pk": 28,
+        "fields": {
+            "insurance_name": "MULTIPLAN      (PHCS)",
+            "created_by": null,
+            "created_at": "2021-12-28T11:44:33.851+05:30",
+            "updated_at": "2021-12-28T11:44:33.851+05:30"
+        }
+    },
+    {
+        "model": "insurance.insurance",
+        "pk": 29,
+        "fields": {
+            "insurance_name": "MULTIPLAN",
+            "created_by": null,
+            "created_at": "2021-12-28T11:44:38.278+05:30",
+            "updated_at": "2021-12-28T11:44:38.278+05:30"
+        }
+    },
+    {
+        "model": "insurance.insurance",
+        "pk": 30,
+        "fields": {
+            "insurance_name": "PACE",
+            "created_by": null,
+            "created_at": "2021-12-28T11:44:43.765+05:30",
+            "updated_at": "2021-12-28T11:44:43.765+05:30"
+        }
+    },
+    {
+        "model": "insurance.procedure",
+        "pk": 1,
+        "fields": {
+            "procedure_name": "Tata AIG COVID-19 Assistance",
+            "billing_code": 9876,
+            "revenue_code": 7895,
+            "created_by": 2,
+            "created_at": "2021-12-23T12:15:09.792+05:30",
+            "updated_at": "2021-12-24T10:18:14.856+05:30"
+        }
+    },
+    {
+        "model": "insurance.procedure",
+        "pk": 2,
+        "fields": {
+            "procedure_name": "HC GALACTOGRAM SINGLE DUCTS INJECTION ONLY",
+            "billing_code": 19030,
+            "revenue_code": 361,
+            "created_by": null,
+            "created_at": "2021-12-24T16:33:11.165+05:30",
+            "updated_at": "2021-12-24T16:33:11.165+05:30"
+        }
+    },
+    {
+        "model": "insurance.procedure",
+        "pk": 3,
+        "fields": {
+            "procedure_name": "HC ARTHROCENTESIS INTERMED JOINT/BURSA FLUORO GUIDE",
+            "billing_code": 20605,
+            "revenue_code": 361,
+            "created_by": null,
+            "created_at": "2021-12-24T16:33:22.401+05:30",
+            "updated_at": "2021-12-24T16:33:22.401+05:30"
+        }
+    },
+    {
+        "model": "insurance.procedure",
+        "pk": 4,
+        "fields": {
+            "procedure_name": "HC ARTHROCENTESIS INTERMED JOINT/BURSA CT GUIDE",
+            "billing_code": 20605,
+            "revenue_code": 361,
+            "created_by": null,
+            "created_at": "2021-12-24T16:33:37.868+05:30",
+            "updated_at": "2021-12-24T16:33:37.868+05:30"
+        }
+    },
+    {
+        "model": "insurance.procedure",
+        "pk": 5,
+        "fields": {
+            "procedure_name": "HC ARTHROCENTESIS INTERMED JOINT/BURSA US GUIDE",
+            "billing_code": 20606,
+            "revenue_code": 361,
+            "created_by": null,
+            "created_at": "2021-12-24T16:33:52.116+05:30",
+            "updated_at": "2021-12-24T16:33:52.116+05:30"
+        }
+    },
+    {
+        "model": "insurance.procedure",
+        "pk": 6,
+        "fields": {
+            "procedure_name": "HC LONG ARM SPLINT DLY",
+            "billing_code": 29105,
+            "revenue_code": 430,
+            "created_by": null,
+            "created_at": "2021-12-24T16:39:21.205+05:30",
+            "updated_at": "2021-12-24T16:39:21.205+05:30"
+        }
+    },
+    {
+        "model": "insurance.procedure",
+        "pk": 7,
+        "fields": {
+            "procedure_name": "HC SHORT ARM SPLINT DLY",
+            "billing_code": 29126,
+            "revenue_code": 430,
+            "created_by": null,
+            "created_at": "2021-12-24T16:39:34.259+05:30",
+            "updated_at": "2021-12-24T16:39:34.259+05:30"
+        }
+    },
+    {
+        "model": "insurance.procedure",
+        "pk": 8,
+        "fields": {
+            "procedure_name": "HC STATIC FINGER SPLINT DLY",
+            "billing_code": 29130,
+            "revenue_code": 430,
+            "created_by": null,
+            "created_at": "2021-12-24T16:39:47.116+05:30",
+            "updated_at": "2021-12-24T16:39:47.116+05:30"
+        }
+    },
+    {
+        "model": "insurance.procedure",
+        "pk": 9,
+        "fields": {
+            "procedure_name": "HC DYN FINGER SPLINT DLY",
+            "billing_code": 29280,
+            "revenue_code": 430,
+            "created_by": null,
+            "created_at": "2021-12-24T16:39:59.932+05:30",
+            "updated_at": "2021-12-24T16:39:59.932+05:30"
+        }
+    },
+    {
+        "model": "insurance.procedure",
+        "pk": 10,
+        "fields": {
+            "procedure_name": "HC ABLATE PULM TUMOR PERQ CRYBL",
+            "billing_code": 36415,
+            "revenue_code": 300,
+            "created_by": null,
+            "created_at": "2021-12-24T16:40:11.923+05:30",
+            "updated_at": "2021-12-24T16:40:11.923+05:30"
+        }
+    },
+    {
+        "model": "insurance.procedure",
+        "pk": 11,
+        "fields": {
+            "procedure_name": "HC VENIPUNCTURE",
+            "billing_code": 36415,
+            "revenue_code": 300,
+            "created_by": null,
+            "created_at": "2021-12-24T16:40:25.653+05:30",
+            "updated_at": "2021-12-24T16:40:25.653+05:30"
+        }
+    },
+    {
+        "model": "insurance.procedure",
+        "pk": 12,
+        "fields": {
+            "procedure_name": "SPECIMEN CHARGE - AVENTURA",
+            "billing_code": 36415,
+            "revenue_code": 300,
+            "created_by": null,
+            "created_at": "2021-12-24T16:40:38.228+05:30",
+            "updated_at": "2021-12-24T16:40:38.228+05:30"
+        }
+    },
+    {
+        "model": "insurance.procedure",
+        "pk": 13,
+        "fields": {
+            "procedure_name": "TRANS BLOOD / BLOOD COMP",
+            "billing_code": 36430,
+            "revenue_code": 391,
+            "created_by": null,
+            "created_at": "2021-12-24T16:40:51.308+05:30",
+            "updated_at": "2021-12-24T16:40:51.308+05:30"
+        }
+    },
+    {
+        "model": "insurance.procedure",
+        "pk": 14,
+        "fields": {
+            "procedure_name": "PUSH TRANSFUSION, BLOOD",
+            "billing_code": 36440,
+            "revenue_code": 300,
+            "created_by": null,
+            "created_at": "2021-12-24T16:41:10.300+05:30",
+            "updated_at": "2021-12-24T16:41:10.300+05:30"
+        }
+    },
+    {
+        "model": "insurance.procedure",
+        "pk": 15,
+        "fields": {
+            "procedure_name": "HC COLLECT BLOOD FROM IMPLANT VAD.",
+            "billing_code": 36591,
+            "revenue_code": 300,
+            "created_by": 2,
+            "created_at": "2021-12-28T11:37:33.024+05:30",
+            "updated_at": "2021-12-28T11:37:33.024+05:30"
+        }
+    },
+    {
+        "model": "insurance.procedure",
+        "pk": 16,
+        "fields": {
+            "procedure_name": "HC COLLECT BLOOD FROM PICC",
+            "billing_code": 36592,
+            "revenue_code": 361,
+            "created_by": 17,
+            "created_at": "2021-12-28T11:38:13.678+05:30",
+            "updated_at": "2021-12-28T11:38:13.678+05:30"
+        }
+    },
+    {
+        "model": "insurance.procedure",
+        "pk": 17,
+        "fields": {
+            "procedure_name": "HC SM INT ENDO W ILEUM; DX",
+            "billing_code": 44376,
+            "revenue_code": 750,
+            "created_by": 2,
+            "created_at": "2021-12-28T11:38:34.316+05:30",
+            "updated_at": "2021-12-28T11:38:34.316+05:30"
+        }
+    },
+    {
+        "model": "insurance.procedure",
+        "pk": 18,
+        "fields": {
+            "procedure_name": "HC CYSTOURETHROSCOPY WITH URETERAL CATH",
+            "billing_code": 52005,
+            "revenue_code": 361,
+            "created_by": 17,
+            "created_at": "2021-12-28T11:38:56.318+05:30",
+            "updated_at": "2021-12-28T11:38:56.318+05:30"
+        }
+    },
+    {
+        "model": "insurance.procedure",
+        "pk": 19,
+        "fields": {
+            "procedure_name": "HC NON STRESS TEST",
+            "billing_code": 59025,
+            "revenue_code": 920,
+            "created_by": 2,
+            "created_at": "2021-12-28T11:39:10.773+05:30",
+            "updated_at": "2021-12-28T11:39:10.773+05:30"
+        }
+    },
+    {
+        "model": "insurance.procedure",
+        "pk": 20,
+        "fields": {
+            "procedure_name": "HC XR MYELOGRAM CERVICAL INJ AND IMAGING",
+            "billing_code": 62302,
+            "revenue_code": 361,
+            "created_by": 17,
+            "created_at": "2021-12-28T11:39:29.977+05:30",
+            "updated_at": "2021-12-28T11:39:29.977+05:30"
+        }
+    },
+    {
+        "model": "insurance.procedure",
+        "pk": 21,
+        "fields": {
+            "procedure_name": "HC XR MYELOGRAM THORACIC  INJ AND IMAGING",
+            "billing_code": 62303,
+            "revenue_code": 361,
+            "created_by": 2,
+            "created_at": "2021-12-28T11:40:05.013+05:30",
+            "updated_at": "2021-12-28T11:40:05.013+05:30"
+        }
+    },
+    {
+        "model": "insurance.procedure",
+        "pk": 22,
+        "fields": {
+            "procedure_name": "HC XR MYELOGRAM 2 OR MORE REGIONS INJ AND IMAGING",
+            "billing_code": 62305,
+            "revenue_code": 361,
+            "created_by": 2,
+            "created_at": "2021-12-28T11:40:19.826+05:30",
+            "updated_at": "2021-12-28T11:40:19.827+05:30"
+        }
+    },
+    {
+        "model": "insurance.procedure",
+        "pk": 23,
+        "fields": {
+            "procedure_name": "HC XR MANDIBLE COMPLETE",
+            "billing_code": 70110,
+            "revenue_code": 320,
+            "created_by": 17,
+            "created_at": "2021-12-28T11:40:39.941+05:30",
+            "updated_at": "2021-12-28T11:40:39.941+05:30"
+        }
+    },
+    {
+        "model": "insurance.procedure",
+        "pk": 24,
+        "fields": {
+            "procedure_name": "HC XR FACIAL BONES COMPLETE",
+            "billing_code": 70150,
+            "revenue_code": 320,
+            "created_by": 2,
+            "created_at": "2021-12-28T11:41:00.142+05:30",
+            "updated_at": "2021-12-28T11:41:00.142+05:30"
+        }
+    },
+    {
+        "model": "insurance.procedure",
+        "pk": 25,
+        "fields": {
+            "procedure_name": "HC XR NASAL BONES",
+            "billing_code": 70160,
+            "revenue_code": 320,
+            "created_by": 2,
+            "created_at": "2021-12-28T11:41:18.013+05:30",
+            "updated_at": "2021-12-28T11:41:18.013+05:30"
+        }
+    },
+    {
+        "model": "insurance.procedure",
+        "pk": 26,
+        "fields": {
+            "procedure_name": "HC XR ORBITS COMPLETE",
+            "billing_code": 70200,
+            "revenue_code": 320,
+            "created_by": 17,
+            "created_at": "2021-12-28T11:41:45.288+05:30",
+            "updated_at": "2021-12-28T11:41:45.288+05:30"
+        }
+    },
+    {
+        "model": "insurance.procedure",
+        "pk": 27,
+        "fields": {
+            "procedure_name": "HC XR PARANASAL SINUSES COMPLETE",
+            "billing_code": 70220,
+            "revenue_code": 320,
+            "created_by": 2,
+            "created_at": "2021-12-28T11:42:03.663+05:30",
+            "updated_at": "2021-12-28T11:42:03.663+05:30"
+        }
+    },
+    {
+        "model": "insurance.procedure",
+        "pk": 28,
+        "fields": {
+            "procedure_name": "HC XR SKULL VALVE DIAL VIEW",
+            "billing_code": 70250,
+            "revenue_code": 320,
+            "created_by": 2,
+            "created_at": "2021-12-28T11:42:22.998+05:30",
+            "updated_at": "2021-12-28T11:42:22.998+05:30"
+        }
+    },
+    {
+        "model": "insurance.procedure",
+        "pk": 29,
+        "fields": {
+            "procedure_name": "HC XR SKULL SHUNT SERIES",
+            "billing_code": 70250,
+            "revenue_code": 320,
+            "created_by": 2,
+            "created_at": "2021-12-28T11:42:47.158+05:30",
+            "updated_at": "2021-12-28T11:42:47.158+05:30"
+        }
+    },
+    {
+        "model": "insurance.procedure",
+        "pk": 30,
+        "fields": {
+            "procedure_name": "HC XR SKULL LIMITED",
+            "billing_code": 70250,
+            "revenue_code": 320,
+            "created_by": 17,
+            "created_at": "2021-12-28T11:43:02.829+05:30",
+            "updated_at": "2021-12-28T11:43:02.829+05:30"
+        }
+    },
+    {
+        "model": "insurance.charge",
+        "pk": 3,
+        "fields": {
+            "insurance": 1,
+            "procedure": 1,
+            "procedure_price": 185,
+            "hospital": 1,
+            "cash_price": 100,
+            "unit_price": 89,
+            "maximum_negotiated_price": null,
+            "minimum_negotiated_price": null,
+            "created_by": null,
+            "created_at": "2021-12-23T12:17:48.037+05:30",
+            "updated_at": "2021-12-23T12:17:48.037+05:30"
+        }
+    },
+    {
+        "model": "insurance.charge",
+        "pk": 4,
+        "fields": {
+            "insurance": 1,
+            "procedure": 1,
+            "procedure_price": 7878,
+            "hospital": 2,
+            "cash_price": 12,
+            "unit_price": 12,
+            "maximum_negotiated_price": null,
+            "minimum_negotiated_price": null,
+            "created_by": null,
+            "created_at": "2021-12-23T12:18:30.874+05:30",
+            "updated_at": "2021-12-23T12:18:30.874+05:30"
+        }
+    },
+    {
+        "model": "insurance.charge",
+        "pk": 5,
+        "fields": {
+            "insurance": 2,
+            "procedure": 14,
+            "procedure_price": 10,
+            "hospital": 2,
+            "cash_price": 10,
+            "unit_price": 10,
+            "maximum_negotiated_price": 10,
+            "minimum_negotiated_price": 10,
+            "created_by": 17,
+            "created_at": "2021-12-24T18:10:46.587+05:30",
+            "updated_at": "2021-12-24T18:10:46.587+05:30"
+        }
+    },
+    {
+        "model": "insurance.charge",
+        "pk": 6,
+        "fields": {
+            "insurance": 3,
+            "procedure": 2,
+            "procedure_price": 476,
+            "hospital": 1,
+            "cash_price": null,
+            "unit_price": 200,
+            "maximum_negotiated_price": 170,
+            "minimum_negotiated_price": 14,
+            "created_by": 2,
+            "created_at": "2021-12-28T11:48:45.191+05:30",
+            "updated_at": "2021-12-28T11:51:01.481+05:30"
+        }
+    },
+    {
+        "model": "insurance.charge",
+        "pk": 7,
+        "fields": {
+            "insurance": 4,
+            "procedure": 3,
+            "procedure_price": 78,
+            "hospital": 2,
+            "cash_price": null,
+            "unit_price": 560,
+            "maximum_negotiated_price": 1213,
+            "minimum_negotiated_price": 39,
+            "created_by": null,
+            "created_at": "2021-12-28T11:49:56.257+05:30",
+            "updated_at": "2021-12-28T11:51:31.205+05:30"
+        }
+    },
+    {
+        "model": "insurance.charge",
+        "pk": 8,
+        "fields": {
+            "insurance": 5,
+            "procedure": 4,
+            "procedure_price": 45,
+            "hospital": 3,
+            "cash_price": null,
+            "unit_price": 560,
+            "maximum_negotiated_price": 1213,
+            "minimum_negotiated_price": 36,
+            "created_by": null,
+            "created_at": "2021-12-28T11:54:16.450+05:30",
+            "updated_at": "2021-12-28T11:54:16.450+05:30"
+        }
+    },
+    {
+        "model": "insurance.charge",
+        "pk": 9,
+        "fields": {
+            "insurance": 6,
+            "procedure": 5,
+            "procedure_price": 923,
+            "hospital": 6,
+            "cash_price": null,
+            "unit_price": 1230,
+            "maximum_negotiated_price": 1046,
+            "minimum_negotiated_price": 86,
+            "created_by": null,
+            "created_at": "2021-12-28T11:55:26.184+05:30",
+            "updated_at": "2021-12-28T11:55:26.184+05:30"
+        }
+    },
+    {
+        "model": "insurance.charge",
+        "pk": 10,
+        "fields": {
+            "insurance": 7,
+            "procedure": 6,
+            "procedure_price": 420,
+            "hospital": 7,
+            "cash_price": null,
+            "unit_price": 560,
+            "maximum_negotiated_price": 476,
+            "minimum_negotiated_price": 39,
+            "created_by": null,
+            "created_at": "2021-12-28T11:56:20.298+05:30",
+            "updated_at": "2021-12-28T11:56:20.298+05:30"
+        }
+    },
+    {
+        "model": "insurance.charge",
+        "pk": 11,
+        "fields": {
+            "insurance": 8,
+            "procedure": 7,
+            "procedure_price": null,
+            "hospital": 8,
+            "cash_price": null,
+            "unit_price": 551,
+            "maximum_negotiated_price": 468,
+            "minimum_negotiated_price": 39,
+            "created_by": null,
+            "created_at": "2021-12-28T11:57:57.670+05:30",
+            "updated_at": "2021-12-28T11:57:57.670+05:30"
+        }
+    },
+    {
+        "model": "insurance.charge",
+        "pk": 12,
+        "fields": {
+            "insurance": 9,
+            "procedure": 8,
+            "procedure_price": 39,
+            "hospital": 9,
+            "cash_price": null,
+            "unit_price": 350,
+            "maximum_negotiated_price": 298,
+            "minimum_negotiated_price": 25,
+            "created_by": null,
+            "created_at": "2021-12-28T12:00:17.507+05:30",
+            "updated_at": "2021-12-28T12:00:17.507+05:30"
+        }
+    },
+    {
+        "model": "insurance.charge",
+        "pk": 13,
+        "fields": {
+            "insurance": 10,
+            "procedure": 9,
+            "procedure_price": 187,
+            "hospital": 10,
+            "cash_price": null,
+            "unit_price": 622,
+            "maximum_negotiated_price": 529,
+            "minimum_negotiated_price": 44,
+            "created_by": null,
+            "created_at": "2021-12-28T12:02:22.657+05:30",
+            "updated_at": "2021-12-28T12:02:22.657+05:30"
+        }
+    },
+    {
+        "model": "insurance.charge",
+        "pk": 14,
+        "fields": {
+            "insurance": 11,
+            "procedure": 10,
+            "procedure_price": 4600,
+            "hospital": 11,
+            "cash_price": null,
+            "unit_price": 11220,
+            "maximum_negotiated_price": 3537,
+            "minimum_negotiated_price": 785,
+            "created_by": null,
+            "created_at": "2021-12-28T12:03:55.255+05:30",
+            "updated_at": "2021-12-28T12:03:55.255+05:30"
+        }
+    },
+    {
+        "model": "insurance.charge",
+        "pk": 15,
+        "fields": {
+            "insurance": 12,
+            "procedure": 11,
+            "procedure_price": 20,
+            "hospital": 12,
+            "cash_price": null,
+            "unit_price": 55,
+            "maximum_negotiated_price": 52,
+            "minimum_negotiated_price": 4,
+            "created_by": null,
+            "created_at": "2021-12-28T12:05:34.752+05:30",
+            "updated_at": "2021-12-28T12:05:34.752+05:30"
+        }
+    },
+    {
+        "model": "insurance.charge",
+        "pk": 16,
+        "fields": {
+            "insurance": 13,
+            "procedure": 12,
+            "procedure_price": 10,
+            "hospital": 13,
+            "cash_price": 11,
+            "unit_price": 61,
+            "maximum_negotiated_price": 52,
+            "minimum_negotiated_price": 4,
+            "created_by": null,
+            "created_at": "2021-12-28T12:06:56.569+05:30",
+            "updated_at": "2021-12-28T12:06:56.569+05:30"
+        }
+    },
+    {
+        "model": "insurance.charge",
+        "pk": 17,
+        "fields": {
+            "insurance": 14,
+            "procedure": 13,
+            "procedure_price": 308,
+            "hospital": 14,
+            "cash_price": null,
+            "unit_price": 1098,
+            "maximum_negotiated_price": 934,
+            "minimum_negotiated_price": 77,
+            "created_by": null,
+            "created_at": "2021-12-28T12:08:19.657+05:30",
+            "updated_at": "2021-12-28T12:08:19.657+05:30"
+        }
+    },
+    {
+        "model": "insurance.charge",
+        "pk": 18,
+        "fields": {
+            "insurance": 15,
+            "procedure": 13,
+            "procedure_price": 374,
+            "hospital": 15,
+            "cash_price": null,
+            "unit_price": 1098,
+            "maximum_negotiated_price": 934,
+            "minimum_negotiated_price": 77,
+            "created_by": null,
+            "created_at": "2021-12-28T12:09:26.313+05:30",
+            "updated_at": "2021-12-28T12:09:26.313+05:30"
+        }
+    },
+    {
+        "model": "insurance.charge",
+        "pk": 19,
+        "fields": {
+            "insurance": 16,
+            "procedure": 14,
+            "procedure_price": 1014,
+            "hospital": 16,
+            "cash_price": null,
+            "unit_price": 1192,
+            "maximum_negotiated_price": 1014,
+            "minimum_negotiated_price": 83,
+            "created_by": null,
+            "created_at": "2021-12-28T12:10:22.472+05:30",
+            "updated_at": "2021-12-28T12:10:22.472+05:30"
+        }
+    },
+    {
+        "model": "insurance.charge",
+        "pk": 20,
+        "fields": {
+            "insurance": 17,
+            "procedure": 15,
+            "procedure_price": 45,
+            "hospital": 17,
+            "cash_price": null,
+            "unit_price": 62,
+            "maximum_negotiated_price": 54,
+            "minimum_negotiated_price": 4,
+            "created_by": null,
+            "created_at": "2021-12-28T12:11:11.144+05:30",
+            "updated_at": "2021-12-28T12:11:11.144+05:30"
+        }
+    },
+    {
+        "model": "insurance.charge",
+        "pk": 21,
+        "fields": {
+            "insurance": 18,
+            "procedure": 16,
+            "procedure_price": 11,
+            "hospital": 18,
+            "cash_price": null,
+            "unit_price": 75,
+            "maximum_negotiated_price": 65,
+            "minimum_negotiated_price": 5,
+            "created_by": null,
+            "created_at": "2021-12-28T12:11:55.265+05:30",
+            "updated_at": "2021-12-28T12:11:55.265+05:30"
+        }
+    },
+    {
+        "model": "insurance.charge",
+        "pk": 22,
+        "fields": {
+            "insurance": 19,
+            "procedure": 17,
+            "procedure_price": 2336,
+            "hospital": 19,
+            "cash_price": null,
+            "unit_price": 3337,
+            "maximum_negotiated_price": 2837,
+            "minimum_negotiated_price": 234,
+            "created_by": null,
+            "created_at": "2021-12-28T12:12:59.041+05:30",
+            "updated_at": "2021-12-28T12:12:59.041+05:30"
+        }
+    },
+    {
+        "model": "insurance.charge",
+        "pk": 23,
+        "fields": {
+            "insurance": 20,
+            "procedure": 18,
+            "procedure_price": 2260,
+            "hospital": 20,
+            "cash_price": null,
+            "unit_price": 3766,
+            "maximum_negotiated_price": 3201,
+            "minimum_negotiated_price": 264,
+            "created_by": null,
+            "created_at": "2021-12-28T12:14:05.929+05:30",
+            "updated_at": "2021-12-28T12:14:05.929+05:30"
+        }
+    },
+    {
+        "model": "insurance.charge",
+        "pk": 24,
+        "fields": {
+            "insurance": 21,
+            "procedure": 19,
+            "procedure_price": 116,
+            "hospital": 21,
+            "cash_price": null,
+            "unit_price": 258,
+            "maximum_negotiated_price": 420,
+            "minimum_negotiated_price": 18,
+            "created_by": null,
+            "created_at": "2021-12-28T12:17:40.288+05:30",
+            "updated_at": "2021-12-28T12:17:40.288+05:30"
+        }
+    },
+    {
+        "model": "insurance.charge",
+        "pk": 25,
+        "fields": {
+            "insurance": 22,
+            "procedure": 20,
+            "procedure_price": 131,
+            "hospital": 22,
+            "cash_price": 1200,
+            "unit_price": 1090,
+            "maximum_negotiated_price": 927,
+            "minimum_negotiated_price": 76,
+            "created_by": null,
+            "created_at": "2021-12-28T12:18:44.482+05:30",
+            "updated_at": "2021-12-28T12:18:44.482+05:30"
+        }
+    },
+    {
+        "model": "insurance.charge",
+        "pk": 26,
+        "fields": {
+            "insurance": 15,
+            "procedure": 13,
+            "procedure_price": 132,
+            "hospital": 9,
+            "cash_price": 321,
+            "unit_price": 132,
+            "maximum_negotiated_price": 132,
+            "minimum_negotiated_price": 312,
+            "created_by": null,
+            "created_at": "2021-12-28T16:58:35.388+05:30",
+            "updated_at": "2021-12-28T16:59:37.087+05:30"
+        }
+    },
+    {
+        "model": "insurance.charge",
+        "pk": 27,
+        "fields": {
+            "insurance": 15,
+            "procedure": 13,
+            "procedure_price": 213,
+            "hospital": 5,
+            "cash_price": 132,
+            "unit_price": 312,
+            "maximum_negotiated_price": 312,
+            "minimum_negotiated_price": 312,
+            "created_by": null,
+            "created_at": "2021-12-28T17:00:53.776+05:30",
+            "updated_at": "2021-12-28T17:01:38.976+05:30"
+        }
+    },
+    {
+        "model": "review.review",
+        "pk": 1,
+        "fields": {
+            "hospital": 2,
+            "procedure": 14,
+            "insurance": 1,
+            "rating": 5,
+            "out_of_pocket_price": 2500,
+            "hospital_price": 1500,
+            "review": "NIce hospital with good clinics",
+            "created_by": 19,
+            "created_at": "2021-12-27T17:25:05.244+05:30",
+            "updated_at": "2021-12-27T18:27:16.142+05:30"
+        }
+    },
+    {
+        "model": "review.review",
+        "pk": 2,
+        "fields": {
+            "hospital": 2,
+            "procedure": 14,
+            "insurance": 1,
+            "rating": 5,
+            "out_of_pocket_price": 5000,
+            "hospital_price": 2000,
+            "review": "All is well hospital",
+            "created_by": 19,
+            "created_at": "2021-12-27T18:08:35.384+05:30",
+            "updated_at": "2021-12-27T18:08:35.384+05:30"
+        }
+    },
+    {
+        "model": "review.review",
+        "pk": 3,
+        "fields": {
+            "hospital": 5,
+            "procedure": 13,
+            "insurance": 15,
+            "rating": 5,
+            "out_of_pocket_price": 312,
+            "hospital_price": 312,
+            "review": "Enter review here",
+            "created_by": null,
+            "created_at": "2021-12-28T17:24:54.656+05:30",
+            "updated_at": "2021-12-28T17:24:54.656+05:30"
+        }
+    },
+    {
+        "model": "review.review",
+        "pk": 4,
+        "fields": {
+            "hospital": 9,
+            "procedure": 1,
+            "insurance": 1,
+            "rating": 5,
+            "out_of_pocket_price": 500,
+            "hospital_price": 8000,
+            "review": "Nice and good skill set of nurses",
+            "created_by": 19,
+            "created_at": "2021-12-30T19:03:25.969+05:30",
+            "updated_at": "2021-12-30T19:05:03.754+05:30"
+        }
+    },
+    {
+        "model": "review.review",
+        "pk": 5,
+        "fields": {
+            "hospital": 9,
+            "procedure": 7,
+            "insurance": 7,
+            "rating": 3,
+            "out_of_pocket_price": 345,
+            "hospital_price": 12313,
+            "review": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It h",
+            "created_by": 19,
+            "created_at": "2021-12-30T19:05:45.064+05:30",
+            "updated_at": "2021-12-30T19:05:45.064+05:30"
+        }
+    },
+    {
+        "model": "review.review",
+        "pk": 6,
+        "fields": {
+            "hospital": 9,
+            "procedure": 28,
+            "insurance": 2,
+            "rating": 4,
+            "out_of_pocket_price": 850,
+            "hospital_price": 3456,
+            "review": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It h",
+            "created_by": 19,
+            "created_at": "2021-12-30T19:06:13.624+05:30",
+            "updated_at": "2021-12-30T19:06:13.624+05:30"
+        }
+    },
+    {
+        "model": "review.review",
+        "pk": 7,
+        "fields": {
+            "hospital": 9,
+            "procedure": 11,
+            "insurance": 11,
+            "rating": 5,
+            "out_of_pocket_price": 500,
+            "hospital_price": 15000,
+            "review": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It h",
+            "created_by": 19,
+            "created_at": "2021-12-30T19:06:27.520+05:30",
+            "updated_at": "2021-12-30T19:06:27.520+05:30"
+        }
+    },
+    {
+        "model": "review.review",
+        "pk": 8,
+        "fields": {
+            "hospital": 9,
+            "procedure": 6,
+            "insurance": 8,
+            "rating": 5,
+            "out_of_pocket_price": 7800,
+            "hospital_price": 10000,
+            "review": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It h",
+            "created_by": 19,
+            "created_at": "2021-12-30T19:06:46.392+05:30",
+            "updated_at": "2021-12-30T19:06:46.392+05:30"
+        }
+    },
+    {
+        "model": "review.review",
+        "pk": 9,
+        "fields": {
+            "hospital": 9,
+            "procedure": 3,
+            "insurance": 3,
+            "rating": 3,
+            "out_of_pocket_price": 4321,
+            "hospital_price": 123123,
+            "review": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It h",
+            "created_by": 19,
+            "created_at": "2021-12-30T19:07:04.936+05:30",
+            "updated_at": "2021-12-30T19:07:04.936+05:30"
+        }
+    },
+    {
+        "model": "review.review",
+        "pk": 10,
+        "fields": {
+            "hospital": 9,
+            "procedure": 6,
+            "insurance": 2,
+            "rating": 5,
+            "out_of_pocket_price": 4500,
+            "hospital_price": 5500,
+            "review": "Lorem ipsum data",
+            "created_by": null,
+            "created_at": "2021-12-31T11:36:38.608+05:30",
+            "updated_at": "2021-12-31T11:36:38.608+05:30"
+        }
+    },
+    {
+        "model": "review.review",
+        "pk": 11,
+        "fields": {
+            "hospital": 9,
+            "procedure": 27,
+            "insurance": 8,
+            "rating": 5,
+            "out_of_pocket_price": 7800,
+            "hospital_price": 5800,
+            "review": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+            "created_by": 19,
+            "created_at": "2021-12-31T11:37:18.165+05:30",
+            "updated_at": "2021-12-31T11:37:18.165+05:30"
+        }
+    },
+    {
+        "model": "review.review",
+        "pk": 12,
+        "fields": {
+            "hospital": 9,
+            "procedure": 9,
+            "insurance": 12,
+            "rating": 5,
+            "out_of_pocket_price": 7800,
+            "hospital_price": 9600,
+            "review": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+            "created_by": 19,
+            "created_at": "2021-12-31T11:37:57.209+05:30",
+            "updated_at": "2021-12-31T11:37:57.209+05:30"
+        }
+    },
+    {
+        "model": "review.review",
+        "pk": 13,
+        "fields": {
+            "hospital": 9,
+            "procedure": 10,
+            "insurance": 14,
+            "rating": 2,
+            "out_of_pocket_price": 152,
+            "hospital_price": 256,
+            "review": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+            "created_by": 19,
+            "created_at": "2021-12-31T11:38:13.448+05:30",
+            "updated_at": "2021-12-31T11:38:13.448+05:30"
+        }
+    },
+    {
+        "model": "review.review",
+        "pk": 14,
+        "fields": {
+            "hospital": 9,
+            "procedure": 7,
+            "insurance": 12,
+            "rating": 5,
+            "out_of_pocket_price": 4500,
+            "hospital_price": 3600,
+            "review": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+            "created_by": 19,
+            "created_at": "2021-12-31T11:38:31.153+05:30",
+            "updated_at": "2021-12-31T11:38:31.153+05:30"
+        }
+    },
+    {
+        "model": "review.review",
+        "pk": 15,
+        "fields": {
+            "hospital": 9,
+            "procedure": 3,
+            "insurance": 4,
+            "rating": 5,
+            "out_of_pocket_price": 5500,
+            "hospital_price": 100,
+            "review": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+            "created_by": 20,
+            "created_at": "2021-12-31T11:39:03.843+05:30",
+            "updated_at": "2021-12-31T11:39:03.843+05:30"
+        }
+    },
+    {
+        "model": "review.review",
+        "pk": 16,
+        "fields": {
+            "hospital": 9,
+            "procedure": 8,
+            "insurance": 3,
+            "rating": 5,
+            "out_of_pocket_price": 4500,
+            "hospital_price": 6500,
+            "review": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+            "created_by": 20,
+            "created_at": "2021-12-31T11:39:19.844+05:30",
+            "updated_at": "2021-12-31T11:39:19.844+05:30"
+        }
+    },
+    {
+        "model": "review.review",
+        "pk": 17,
+        "fields": {
+            "hospital": 9,
+            "procedure": 25,
+            "insurance": 7,
+            "rating": 3,
+            "out_of_pocket_price": 4500,
+            "hospital_price": 1500,
+            "review": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+            "created_by": 19,
+            "created_at": "2021-12-31T11:39:38.172+05:30",
+            "updated_at": "2021-12-31T11:39:38.172+05:30"
+        }
+    },
+    {
+        "model": "review.review",
+        "pk": 18,
+        "fields": {
+            "hospital": 9,
+            "procedure": 11,
+            "insurance": 13,
+            "rating": 5,
+            "out_of_pocket_price": 4500,
+            "hospital_price": 8900,
+            "review": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+            "created_by": 19,
+            "created_at": "2021-12-31T11:39:55.193+05:30",
+            "updated_at": "2021-12-31T11:39:55.193+05:30"
+        }
+    },
+    {
+        "model": "review.review",
+        "pk": 19,
+        "fields": {
+            "hospital": 9,
+            "procedure": 23,
+            "insurance": 11,
+            "rating": 5,
+            "out_of_pocket_price": 4500,
+            "hospital_price": 6500,
+            "review": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+            "created_by": 19,
+            "created_at": "2021-12-31T11:40:12.905+05:30",
+            "updated_at": "2021-12-31T11:40:12.905+05:30"
+        }
+    },
+    {
+        "model": "review.review",
+        "pk": 20,
+        "fields": {
+            "hospital": 9,
+            "procedure": 22,
+            "insurance": 9,
+            "rating": 5,
+            "out_of_pocket_price": 4500,
+            "hospital_price": 55400,
+            "review": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+            "created_by": 19,
+            "created_at": "2021-12-31T11:40:30.953+05:30",
+            "updated_at": "2021-12-31T11:40:30.953+05:30"
+        }
+    },
+    {
+        "model": "review.review",
+        "pk": 21,
+        "fields": {
+            "hospital": 9,
+            "procedure": 9,
+            "insurance": 7,
+            "rating": 5,
+            "out_of_pocket_price": 4500,
+            "hospital_price": 5400,
+            "review": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+            "created_by": 19,
+            "created_at": "2021-12-31T11:40:49.354+05:30",
+            "updated_at": "2021-12-31T11:40:49.354+05:30"
+        }
+    },
+    {
+        "model": "review.review",
+        "pk": 22,
+        "fields": {
+            "hospital": 9,
+            "procedure": 3,
+            "insurance": 14,
+            "rating": 3,
+            "out_of_pocket_price": 4500,
+            "hospital_price": 89000,
+            "review": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+            "created_by": 19,
+            "created_at": "2021-12-31T11:41:06.313+05:30",
+            "updated_at": "2021-12-31T11:41:06.313+05:30"
+        }
+    },
+    {
+        "model": "review.review",
+        "pk": 23,
+        "fields": {
+            "hospital": 9,
+            "procedure": 21,
+            "insurance": 28,
+            "rating": 5,
+            "out_of_pocket_price": 7800,
+            "hospital_price": 9800,
+            "review": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+            "created_by": 19,
+            "created_at": "2021-12-31T11:41:43.029+05:30",
+            "updated_at": "2021-12-31T11:41:43.029+05:30"
+        }
+    },
+    {
+        "model": "review.review",
+        "pk": 24,
+        "fields": {
+            "hospital": 9,
+            "procedure": 3,
+            "insurance": 12,
+            "rating": 4,
+            "out_of_pocket_price": 5600,
+            "hospital_price": 654000,
+            "review": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+            "created_by": 19,
+            "created_at": "2021-12-31T11:42:00.376+05:30",
+            "updated_at": "2021-12-31T11:42:00.376+05:30"
+        }
+    }
+]
